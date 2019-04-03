@@ -14,10 +14,16 @@ background-color: lightgrey;
 margin: 100px;
 background-color: burlywood;
 border-style: solid;
- border-width: 3px;
+ border: 5;
  border-color: black;
 padding: 20px; 
 font-size: 24px;
+
+}
+/*Kan later nog veranderd worden*/
+td{
+border: 3;
+border-style: solid;
 
 }
 p{
