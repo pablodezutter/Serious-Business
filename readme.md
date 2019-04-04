@@ -10,5 +10,8 @@ Hoe gaat Javascript om met 17:30 -> probleem waar ik bleef hangen.
 
 #donderdag 4 April
 @ Dank u Dries
-17:30 opdelen in stukken na 17 check if minutes are over 30
+17:30 functie opdelen in stukken na 17 check if minutes are over 30
+! niet vergeten functie te activeren na var! 
+
+https://pablodezutter.github.io/Serious-Business/. 
 
